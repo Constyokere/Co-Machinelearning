@@ -3,5 +3,5 @@ import pandas as pd
 st.title('🎈 Machine Learning App')
 
 st.info('This app builds machine learning models')
-df=pd.read_csv("C:\Users\MY COMPUTER\Desktop\ML\Lung Cancer Dataset.csv")
+df=pd.read_csv("Lung Cancer Dataset.csv")
 df
